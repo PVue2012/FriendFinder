@@ -1,44 +1,44 @@
 var friends = [
     {
-      name: "Tom Hardy",
+      name: "SAM",
       photo:
-        "https://m.media-amazon.com/images/M/MV5BMTQ3ODEyNjA4Nl5BMl5BanBnXkFtZTgwMTE4ODMyMjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+        "http://vignette1.wikia.nocookie.net/papermario/images/6/6d/Luigi0.png",
       scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 4]
     },
     {
-      name: "Jamie Dornan",
+      name: "BILL",
       photo:
-        "https://www.usmagazine.com/wp-content/uploads/2018/02/jamie-dornan-nude.jpg",
+        "http://vignette1.wikia.nocookie.net/memoryalpha/images/6/61/Kelvin_type_Iowa_concept_art.jpg/revision/latest?cb=20120417111656&path-prefix=en",
       scores: [4, 2, 5, 1, 3, 2, 2, 1, 3, 2]
     },
     {
-      name: "Anthony Joshua",
+      name: "KEN",
       photo:
-        "https://m.media-amazon.com/images/M/MV5BYWFlMmVhZjAtOGMzNS00MzEyLTkzMWEtN2M1MDgzODI5Njk0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+        "http://vignette1.wikia.nocookie.net/sonicfanon/images/4/40/Sonic4_render.png/revision/latest?cb=20140831072150",
       scores: [5, 2, 2, 2, 4, 1, 3, 2, 5, 5]
     },
     {
-      name: "Henry Cavill",
+      name: "PAUL",
       photo:
-        "https://m.media-amazon.com/images/M/MV5BMTUxNTExMzUzOF5BMl5BanBnXkFtZTgwOTI1MjA3OTE@._V1_.jpg",
+        "https://vignette1.wikia.nocookie.net/disney/images/2/21/The-Incredibles-_Bob_Parr.jpg/revision/latest?cb=20160206172921",
       scores: [3, 3, 4, 2, 2, 1, 3, 2, 2, 3]
     },
     {
-      name: "Emily Ratajowski",
+      name: "JOHN",
       photo:
-        "https://pmchollywoodlife.files.wordpress.com/2014/10/Emily-Ratajkowski-Reveals-Rock-Hard-Abs-In-Teeny-Crop-Top-While-Vacationing-With-Husband-gallery.jpg",
+        "http://vignette1.wikia.nocookie.net/pacman/images/2/2b/Clydeeghost.png/revision/latest?cb=20090919170054",
       scores: [4, 3, 4, 1, 5, 2, 5, 3, 1, 4]
     },
     {
-      name: "Blake Lively",
+      name: "NATE",
       photo:
-        "https://media.vanityfair.com/photos/560c07690404673e0de66e1d/master/w_960,c_limit/blake-lively-end-of-preserve-01.jpg",
+        "https://vignette1.wikia.nocookie.net/yugioh/images/8/82/PotofGreed-TF04-JP-VG.jpg/revision/latest?cb=20120829225457",
       scores: [4, 3, 4, 2, 4, 3, 5, 3, 5, 4]
     },
     {
-      name: "Kate Upton",
+      name: "CHRIS",
       photo:
-        "https://m.media-amazon.com/images/M/MV5BMTk3MTA2ODQ1MF5BMl5BanBnXkFtZTcwMjkwMDYxNw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+        "http://vignette1.wikia.nocookie.net/creativity/images/3/3c/Lazy_Wario.png/revision/latest?cb=20130805014557",
       scores: [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
     }
   ];

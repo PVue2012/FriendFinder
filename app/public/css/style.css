@@ -1,5 +1,5 @@
 .jumbotron {
-    background: #929292;
+    background: #ff8787;
   }
   .logo {
     display: block;
@@ -20,3 +20,6 @@
     overflow: hidden;
     width: 500px;
   }
+.btn {
+  background: #00a336;
+}
